@@ -1,0 +1,72 @@
+.login-signup{
+    color: #007DFE;
+    text-align: center;
+    width: 60%;
+    background: #ffffff;
+    margin: 0 auto;
+    margin-top: 150px;
+    box-shadow: 0 0 #50677E;
+}
+.site-btn{
+    background-color:#000000!important;
+    color: #ffffff!important;
+    border: none!important;
+    border-radius: 2px!important;
+}
+.site-btn:hover{
+    background-color:#007DFE!important;
+}
+.login-img img{
+    width: 100%!important;
+    height: auto;
+    margin-top: 60px;
+}
+.signup-img img{
+    width: 100%!important;
+    height: auto;
+    margin-top: 80px;
+}
+
+
+.card{
+    box-shadow: 5px 10px 15px #808080!important;
+    border: none!important;
+}
+.forgot{
+    color: #FE0045;
+}
+
+.hr{
+    color: #007DFE!important;
+    margin-right: 150px!important;
+    margin-left: 150px!important;
+    background-color: #007DFE!important;
+
+}
+
+
+a {
+    text-decoration: none!important;
+}
+a :hover{
+    text-decoration: none!important;
+}
+.follow h5 {
+    margin-bottom: 1.5rem;
+    font-size: 24px;
+}
+.follow i {
+    color:#007DFE ;
+    font-size: 28px;
+}
+
+.check-out-btn{
+    background-color: #000000!important;
+    color: #ffffff;
+
+}
+.check-out-btn:hover{
+    background-color: #cfb56a!important;
+
+}
+
